@@ -1,3 +1,5 @@
+//Java Programme for left rotation
+
 import java.util.*;
 public class leftrotation {
     public static void reverse(int[] arr,int left,int right){
