@@ -1,3 +1,5 @@
+//Java programme to find maximum and minimum number in given array
+
 import java.util.Scanner;
 
 public class MaxMinArray {
