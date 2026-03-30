@@ -1,3 +1,5 @@
+//Java programme to find second largest element in the given array
+
 import java.util.Scanner;
 
 public class Secondlargest {
