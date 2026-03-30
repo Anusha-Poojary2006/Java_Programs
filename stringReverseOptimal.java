@@ -1,3 +1,5 @@
+//Optimal solution for reverse string
+
 import java.util.Scanner;
 
 public class stringReverseOptimal {
