@@ -1,4 +1,4 @@
-//Java programme to find vowels and constants in the string 
+//Java program to find vowels and constants in the string 
 
 import java.util.Scanner;
 
