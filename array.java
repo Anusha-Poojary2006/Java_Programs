@@ -1,4 +1,4 @@
-//Java Programme for array elements
+//Java Program for array elements
 
 import java.util.*;
 public class array {
