@@ -1,4 +1,4 @@
-//Java Programme for reverse the array elements
+//Java Program for reverse the array elements
 
 import java.util.*;
 public class arrayReverse {
