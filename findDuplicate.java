@@ -1,4 +1,4 @@
-//Java programme to find duplicate in array
+//Java program to find duplicate in array
 
 public class findDuplicate {
     public static void main(String[] args) {
