@@ -1,4 +1,4 @@
-//Java programme to reverse the number
+//Java program to reverse the number
 
 import java.util.*;
 public class reverse {
