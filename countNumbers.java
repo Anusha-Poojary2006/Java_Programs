@@ -1,4 +1,4 @@
-//Java programme to count digits in a given number using recursion
+//Java program to count digits in a given number using recursion
 
 import java.util.Scanner;
 
