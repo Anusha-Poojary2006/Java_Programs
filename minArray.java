@@ -1,4 +1,4 @@
-//Java programme to find minimum element in the array using recursion
+//Java program to find minimum element in the array using recursion
 
 import java.util.Scanner;
 
