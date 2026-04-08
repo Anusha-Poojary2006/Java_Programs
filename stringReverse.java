@@ -1,4 +1,4 @@
-//Java Programme for reverse the string
+//Java Program for reverse the string
 
 import java.util.Scanner;
 
