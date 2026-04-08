@@ -1,4 +1,4 @@
-//java programme to reverse the string using recursion
+//java program to reverse the string using recursion
 
 import java.util.Scanner;
 
