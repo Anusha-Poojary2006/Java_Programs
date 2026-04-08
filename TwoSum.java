@@ -1,4 +1,4 @@
-//Java programme to find sum of two number in the array is equal to target number
+//Java program to find sum of two number in the array is equal to target number
 
 import java.util.Arrays;
 import java.util.Scanner;
